@@ -22,7 +22,11 @@ This game was originally created as part of a coursework assignment using [GDeve
 
 ## 📸 Screenshots
 
-*(Insert a couple gifs or screenshots here for max quack)*
+![image](https://github.com/user-attachments/assets/6cb22a99-8eb2-4fa9-8c9c-e1fc0581e604)
+![image](https://github.com/user-attachments/assets/53c59d70-8726-4ac3-b520-6880c1c43296)
+![image](https://github.com/user-attachments/assets/450274ba-f5ca-4bd6-a6fe-8cc2592faffe)
+![image](https://github.com/user-attachments/assets/bf112070-0f56-4248-a50b-350a2716a994)
+![image](https://github.com/user-attachments/assets/85ba6e66-2e97-4660-b12d-e23af9394931)
 
 ## 🧠 What I Learned
 
