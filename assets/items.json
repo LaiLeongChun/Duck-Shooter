@@ -1,0 +1,128 @@
+{
+    "shotgun_upgrades": [
+        {
+            "id": "magnum_chamber",
+            "name": "Magnum Chamber",
+            "description": "Increases score per shot but reduces ammo capacity.",
+            "cost": 5
+        },
+        {
+            "id": "reinforced_barrel",
+            "name": "Reinforced Barrel",
+            "description": "Bullets shot at target's back gives small score bonus.",
+            "cost": 4
+        },
+        {
+            "id": "double_barrel",
+            "name": "Double Barrel",
+            "description": "Fires two shots at once, but longer reload time.",
+            "cost": 7
+        },
+        {
+            "id": "extended_mag",
+            "name": "Extended Tube Mag",
+            "description": "Holds more shots before reloading.",
+            "cost": 6
+        },
+        {
+            "id": "quick_reload",
+            "name": "Quick Reload",
+            "description": "Reduces reload time.",
+            "cost": 5
+        },
+        {
+            "id": "duckhunter_choke",
+            "name": "Duckhunter Choke",
+            "description": "Increases score for shooting ducks but less for other targets.",
+            "cost": 5
+        },
+        {
+            "id": "precision_choke",
+            "name": "Precision Choke",
+            "description": "Increases score if fired while holding still.",
+            "cost": 6
+        },
+        {
+            "id": "slug_barrel",
+            "name": "Slug Barrel",
+            "description": "Converts all shots to single high-scoring slugs instead of pellets.",
+            "cost": 7
+        }
+    ],
+    "bullet_types": [
+        {
+            "id": "fire_shells",
+            "name": "Fire Shells",
+            "description": "Burns targets on hit, giving small score over time.",
+            "cost": 7
+        },
+        {
+            "id": "shock_shells",
+            "name": "Shock Shells",
+            "description": "Stuns targets briefly, causing them to freeze in place.",
+            "cost": 7
+        },
+        {
+            "id": "overpressured_shells",
+            "name": "Overpressured Shells",
+            "description": "First shot after reloading gives extra score.",
+            "cost": 7
+        },
+        {
+            "id": "slug_rounds",
+            "name": "Slug Rounds",
+            "description": "Converts all remaining bullets into a single slug, increasing power with bullet count.",
+            "cost": 10
+        },
+        {
+            "id": "piercing_shells",
+            "name": "Piercing Shells",
+            "description": "Bullet pierces through targets.",
+            "cost": 7
+        },
+        {
+            "id": "speeding_shells",
+            "name": "Speeding Shells",
+            "description": "Provides higher score but speeds up the shot target.",
+            "cost": 9
+        },
+        {
+            "id": "expanding_shells",
+            "name": "Expanding Shells",
+            "description": "Increases target's size by a small amount.",
+            "cost": 6
+        }
+    ],
+    "power_ups": [
+        {
+            "id": "faster_engine",
+            "name": "Faster Engine",
+            "description": "Reduces time taken for shot target to flip over.",
+            "cost": 10
+        },
+        {
+            "id": "lucky_shot",
+            "name": "Lucky Shot",
+            "description": "Small chance for the shot to not cost a bullet.",
+            "cost": 10
+        },
+        {
+            "id": "multi_kill_bonus",
+            "name": "Multi-Kill Bonus",
+            "description": "Hitting multiple targets in quick succession increases score multiplier.",
+            "cost": 10
+        },
+        {
+            "id": "wheel_of_fortune",
+            "name": "Wheel of Fortune",
+            "description": "25% chance to increase score multiplier.",
+            "cost": 10
+        },
+        {
+            "id": "time_extension",
+            "name": "time Extension",
+            "description": "Increases the time limit and bullets.",
+            "cost": 10
+        }
+    ]
+}
